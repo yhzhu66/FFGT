@@ -1,0 +1,8 @@
+numpy~=1.21.5
+scipy~=1.10.1
+torch~=2.0.1
+scikit-learn~=1.1.2
+dgl~=1.1.1+cu117
+greatx~=0.1.0
+tqdm~=4.64.0
+termcolor~=1.1.0
